@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href=css/folhadeestilo.css>
+	<title>Olá, Mundo!</title>
+	<meta charset="utf-8">
+</head>
+
+
+
+<body background="imagem/banner.jpg">
+<h1>SEJA BEM-VINDO</h1>
+<p><br>FAÇA SEU LOGIN</p>
+	<div>
+		<form>
+			<label> LOGIN </label><br>
+			<input type="text" name="LOGIN"><br><br>
+			<label> SENHA </label><br>
+			<input type="password" name="SENHA"><br><br>
+			<button class="entrar" type="submit">ENTRAR</button> 
+	</div>
+<h3 id="meuh3">COPYRIGHT OLIVEIRA</h3>
+
+
+</body>
+</html>
